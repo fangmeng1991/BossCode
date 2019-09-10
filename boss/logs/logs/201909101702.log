@@ -1,0 +1,7 @@
+2019-09-10 17:02:21,830 - BrowserEngine - INFO - You had select Chrome browser.
+2019-09-10 17:02:21,830 - BrowserEngine - INFO - The test server url is: http:10.124.129.145
+2019-09-10 17:02:24,431 - BrowserEngine - INFO - Starting Chrome browser.
+2019-09-10 17:02:27,553 - BrowserEngine - INFO - Open url: http:10.124.129.145
+2019-09-10 17:02:28,690 - BrowserEngine - INFO - Maximize the current window.
+2019-09-10 17:02:28,692 - BrowserEngine - INFO - Set implicitly wait 5 seconds.
+2019-09-10 17:02:36,678 - BasePage - INFO - Had take screenshot and save to folder : /boss/logs/picture/

@@ -16,7 +16,7 @@ class TestLogin(unittest.TestCase):
     def test_login_success(self):
         #self.test_login('sqa0001','sqa123456')
         loginpage = LoginPage(self.driver)
-        loginpage.login('sqa0001', 'sqa123456')
+        loginpage.login('testfii1', 'testfii2019')
         sleep(2)
         BasePage.get_windows_img(self)  # 调用基类截图方法
         #self.test_login('guimo151','guimo1')

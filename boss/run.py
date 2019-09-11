@@ -15,6 +15,6 @@ if __name__ == '__main__':
     suite = unittest.TestSuite()
     suite.addTest(TestLogin("test_login_success"))
     runner = unittest.TextTestRunner()
-    #runner = HTMLTestRunner.HTMLTestRunner(stream=fp, title=u"Fii富集运商城项目测试报告", description=u"用例测试情况",tester=u"段治维")
+    runner = HTMLTestRunner.HTMLTestRunner(stream=fp, title=u"Fii富集运商城项目测试报告", description=u"用例测试情况",tester=u"段治维")
     runner.run(suite)
 

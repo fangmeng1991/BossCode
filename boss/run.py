@@ -1,5 +1,6 @@
 import HTMLTestRunner
 from pages.testsuit.testlogin import *
+from pages.testsuit.testhome import *
 import unittest
 import os
 
@@ -12,9 +13,10 @@ filename = report_path + now + "HTMLtemplate.html"
 fp = open(filename, "wb")
 if __name__ == '__main__':
     #构造测试集
+    runner = HTMLTestRunner.HTMLTestRunner(stream=fp, title=u"Fii富集运商城项目测试报告", description=u"用例测试情况", tester=u"段治维")
+    #suite = unittest.defaultTestLoader.discover('./pages/testsuit/',pattern='test*.py')
     suite = unittest.TestSuite()
-    suite.addTest(TestLogin("test_login_success"))
-    runner = unittest.TextTestRunner()
-    runner = HTMLTestRunner.HTMLTestRunner(stream=fp, title=u"Fii富集运商城项目测试报告", description=u"用例测试情况",tester=u"段治维")
+    #suite.addTest(TestLogin("test_login_success"))
+    suite.addTest(TestHome("test_case001"))
     runner.run(suite)
 

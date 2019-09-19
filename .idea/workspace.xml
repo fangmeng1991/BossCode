@@ -1,22 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="28fc7b86-669a-4819-aa69-969222bf7378" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/boss/config/config.ini" beforeDir="false" afterPath="$PROJECT_DIR$/boss/config/config.ini" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/boss/logs/logs/201909101702.log" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/boss/logs/picture/201909101702.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/boss/logs/report/2019-09-10-17_02_21HTMLtemplate.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/boss/pages/test_page/admin_page.py" beforeDir="false" afterPath="$PROJECT_DIR$/boss/pages/test_page/admin_page.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/boss/pages/test_page/cost_page.py" beforeDir="false" afterPath="$PROJECT_DIR$/boss/pages/test_page/cost_page.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/boss/pages/test_page/home_page.py" beforeDir="false" afterPath="$PROJECT_DIR$/boss/pages/test_page/home_page.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/boss/pages/test_page/login_page.py" beforeDir="false" afterPath="$PROJECT_DIR$/boss/pages/test_page/login_page.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/boss/pages/test_page/product_page.py" beforeDir="false" afterPath="$PROJECT_DIR$/boss/pages/test_page/product_page.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/boss/pages/test_page/provider_page.py" beforeDir="false" afterPath="$PROJECT_DIR$/boss/pages/test_page/provider_page.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/boss/pages/test_page/uesr_page.py" beforeDir="false" afterPath="$PROJECT_DIR$/boss/pages/test_page/uesr_page.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/boss/pages/testsuit/testlogin.py" beforeDir="false" afterPath="$PROJECT_DIR$/boss/pages/testsuit/testlogin.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/boss/run.py" beforeDir="false" afterPath="$PROJECT_DIR$/boss/run.py" afterDir="false" />
-    </list>
+    <list default="true" id="28fc7b86-669a-4819-aa69-969222bf7378" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
